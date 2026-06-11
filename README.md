@@ -1,5 +1,3 @@
-### Detailed README.md Summary
-
 # E-Commerce Review Sentiment Analysis using Neural Networks
 
 ## Project Overview
